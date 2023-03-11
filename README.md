@@ -1,2 +1,2 @@
 # Backend-with-Django
-Repository contains Django apps
+## Repository contains a travel app called Travelo
